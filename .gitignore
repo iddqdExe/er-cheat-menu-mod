@@ -1,0 +1,19 @@
+# Local reference material
+*.CT
+*.ct
+
+# Build output and editor state
+/build/
+/out/
+/.vs/
+CMakeUserPresets.json
+*.user
+
+# Local game assets, saves, and diagnostics
+/assets/extracted/
+/local/
+*.sl2
+*.co2
+*.bak
+*.log
+*.dmp
